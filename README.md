@@ -1,7 +1,7 @@
 # VueBookSale
 基于Vue的书籍销售系统网站
 
-演示视频连接：
+演示视频连接：https://live.csdn.net/v/204326
 
 详询 微信：egvh56ufy7hh 钉钉：chengxuyuandabo，承接商业项目和毕设
 
