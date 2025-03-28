@@ -1,7 +1,7 @@
 # VueBookSale
 基于Vue的书籍销售系统网站
 
-演示视频连接：https://live.csdn.net/v/204326
+演示视频连接：https://www.bilibili.com/video/BV1Dr4y1b7Ck/
 
 详询 微信1：egvh56ufy7hh ，微信2：dabocode 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
 
